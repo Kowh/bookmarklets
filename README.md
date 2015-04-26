@@ -1,5 +1,5 @@
 # bookmarklets
-Miscellaneous Firefox bookmarklets
+Miscellaneous Firefox bookmarklets. They might work in other browsers but no effort was made to make them portable.
 
 ## Install
 - Drag a url to your Firefox bookmarks toolbar (it doesn't matter which, we just want to create a bookmark)
