@@ -2,8 +2,8 @@
 Miscellaneous Firefox bookmarklets
 
 ## Tools
-[bookmarkleter](https://chriszarate.github.io/bookmarkleter/): converts javascript to a bookmarket.
-[jsbeautifier.org](http://jsbeautifier.org/): makes website javascript legible.
+-[bookmarkleter](https://chriszarate.github.io/bookmarkleter/): converts javascript to a bookmarket.
+-[jsbeautifier.org](http://jsbeautifier.org/): makes website javascript legible.
 
 ## Bookmarklets
 
