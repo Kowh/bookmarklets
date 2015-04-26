@@ -14,6 +14,9 @@ xmlhttp.onreadystatechange = function() {
         while (document.body.firstChild) {
             document.body.removeChild(document.body.firstChild);
         }
+        for (var i=0; i < document.styleSheets.length; i++) {
+            document.styleSheets[i].disabled = true;
+        }
         var vid = document.createElement('video');
         vid.setAttribute('type', streamType);
         vid.setAttribute('src', streamUrl);
