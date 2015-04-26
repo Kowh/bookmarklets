@@ -1,6 +1,13 @@
 # bookmarklets
 Miscellaneous Firefox bookmarklets
 
+## Install
+- Drag a url to your Firefox bookmarks toolbar (it doesn't matter which, we just want to create a bookmark)
+- Right-click the new bookmark and select **Properties**
+- **Name** it something descriptive
+- Put the javascript: code into the **location**
+- Click **Save**
+
 ## Tools
 - [bookmarkleter](https://chriszarate.github.io/bookmarkleter/): converts javascript to a bookmarket.
 - [jsbeautifier.org](http://jsbeautifier.org/): makes website javascript legible.
